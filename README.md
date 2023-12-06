@@ -10,23 +10,23 @@ In this challenge we will use python and unsupervised learning to predict if cry
 ## Scale the data using StandardScaler
 ## Find the best number of clusters using the elbow method
    ### Elbow curve for the original data.
-   ## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
+   ## ![Crypto]()
 
 ## Performed clustering using K-Means for the original scaled data
    ### Elbow curve for the original data.
-## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
+## ![Crypto]()
 
 ## Reduced data dimensions using Principal Component Analysis (PCA)
    ### Elbow curve for the original data.
-## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
+## ![Crypto]()
 
 ## Performed clustering using K-Means for the PCA data
    ### Elbow curve for the original data.
-   ## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
+   ## ![Crypto]()
 
 ## Visualized and compare results using hvplot for the two Data 
    ### Elbow curve for the original data.
-   ## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
+   ## ![Crypto]()
 
 # Data Analysis 
       
