@@ -32,16 +32,16 @@ In this challenge we will use python and unsupervised learning to predict if cry
 
   ### 5-Optimize Clusters with Principal Component Analysis.
     # Create a new DataFrame with the PCA data.
-  market_pca_data_df = pd.DataFrame(
-    market_pca_data,
-    columns=["PCA1", "PCA2" , "PCA3"]
-  )
-    # Copy the crypto names from the original data
-    market_pca_data_df["Crypto_names"]=df_market_data.index
-    # Set the coinid column as index
-    market_pca_data_df=market_pca_data_df.set_index('Crypto_names')
-    # Display sample data
-    market_pca_data_df.head(5)
+      market_pca_data_df = pd.DataFrame(
+      market_pca_data,
+     columns=["PCA1", "PCA2" , "PCA3"]
+      )
+     # Copy the crypto names from the original data
+     market_pca_data_df["Crypto_names"]=df_market_data.index
+     # Set the coinid column as index
+     market_pca_data_df=market_pca_data_df.set_index('Crypto_names')
+     # Display sample data
+     market_pca_data_df.head(5)
   
   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/market_pca_data_df.jpg)
 
