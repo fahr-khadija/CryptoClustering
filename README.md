@@ -9,14 +9,14 @@ In this challenge we will use python and unsupervised learning to predict if cry
   ### 1-Preprocessed data for model using pandas and sklearn library to standardize features
   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
   ### 2-Scale the data using StandardScaler
-   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/df_market_scaled_pred.jpg)
   ### 3-Find the best number of clusters using the elbow method
    
-   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/elbow_Curve.jpg)
 
    ### 4-Performed clustering using K-Means for the original scaled data
-  
-   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
+  ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/df_market_scaled_plot.jpg)
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/df_market_scaled_pred.jpg)
 
   ### 5-Reduced data dimensions using Principal Component Analysis (PCA)
   
