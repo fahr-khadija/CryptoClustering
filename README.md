@@ -9,25 +9,25 @@ In this challenge we will use python and unsupervised learning to predict if cry
   ### 1-Preprocessed data for model using pandas and sklearn library to standardize features
   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
   ### 2-Scale the data using StandardScaler
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
   ### 3-Find the best number of clusters using the elbow method
-  ### Elbow curve for the original data.
-     ## ![Crypto](images\elbow Curve.jpg)
+   
+    ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
 
    ### 4-Performed clustering using K-Means for the original scaled data
-   ### Elbow curve for the original data.
-     ## ![Crypto]()
+  
+    ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
 
   ### 5-Reduced data dimensions using Principal Component Analysis (PCA)
-   ### Elbow curve for the original data.
-   ## ![Crypto]()
+  
+    ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
 
   ### 6-Performed clustering using K-Means for the PCA data
-   ### Elbow curve for the original data.
-   ## ![Crypto]()
+  
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
 
   ### 7-Visualized and compare results using hvplot for the two Data 
-   ### Elbow curve for the original data.
-   ## ![Crypto]()
+      ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/dataframe_plot.jpg)
 
 # Data Analysis 
       
