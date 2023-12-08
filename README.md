@@ -12,7 +12,7 @@ In this challenge we will use python and unsupervised learning to predict if cry
    ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/df_market_scaled_pred.jpg)
   ### 3-Find the best number of clusters using the elbow method
    
-   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/elbow_Curve.jpg)
+   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/elbow%20Curve.jpg)
 
    ### 4-Performed clustering using K-Means for the original scaled data
   ## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/df_market_scaled_plot.jpg)
