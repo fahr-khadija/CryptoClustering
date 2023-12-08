@@ -7,6 +7,7 @@ In this challenge we will use python and unsupervised learning to predict if cry
 
 # Process Flow Steps :
   ### 1-Preprocessed data for model using pandas and sklearn library to standardize features
+  ## ![Crypto](https://i.pinimg.com/736x/ce/bd/26/cebd26365e7e8c1de734652e65f766c8.jpg)
   ### 2-Scale the data using StandardScaler
   ### 3-Find the best number of clusters using the elbow method
   ### Elbow curve for the original data.
