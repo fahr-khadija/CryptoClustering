@@ -76,7 +76,7 @@ In this challenge we will use python and unsupervised learning to predict if cry
         # Composite plot to contrast the clusters
         market_scaled_plot + market_pca_data_predict_plot
 
-## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/cluster_compare.jpg)   
+## ![Crypto](https://github.com/fahr-khadija/CryptoClustering/blob/main/images/cluster_compare.png)   
 
 # Data Analysis 
  By analysing the result visualisation ,I conclude that using fewer features removes some  variability     and give a good  overview learning model also applying PCA to the data  increased the number of data points assigned to cluster 0 and cluster 1 compared to the initial analysis.         
